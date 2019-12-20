@@ -27,4 +27,11 @@
         android:layout_marginBottom="20dp"
         android:text="Update" />
 
+    <Button
+        android:id="@+id/buttonDelete"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Delete" />
+
 </LinearLayout>
